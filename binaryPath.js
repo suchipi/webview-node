@@ -1,7 +1,7 @@
 var path = require("path");
 
 var binaryPath;
-if (process.platform === "windows") {
+if (process.platform === "win32") {
   binaryPath = path.join(__dirname, "bin", "windows-amd64", "launcher.exe");
 } else if (process.platform === "darwin") {
   binaryPath = path.join(__dirname, "bin", "darwin-amd64", "webview");
