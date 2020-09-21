@@ -1,0 +1,12 @@
+{
+  "name": "@suchipi/webview",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "yargs-parser": "^20.2.0"
+  },
+  "bin": {
+    "webview": "cli.js"
+  }
+}
