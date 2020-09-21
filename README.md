@@ -2,6 +2,20 @@
 
 This package wraps https://github.com/suchipi/webview so it can be distributed on npm and run from node.
 
+## Installation
+
+As a global CLI application:
+
+```
+npm i -g @suchipi/webview
+```
+
+As a node module:
+
+```
+npm i --save @suchipi/webview
+```
+
 ## Usage (CLI)
 
 ```
