@@ -1,4 +1,4 @@
-# `@suchipi/webview`
+# `webview`
 
 This package wraps https://github.com/suchipi/webview so it can be distributed on npm and run from node.
 
@@ -7,13 +7,13 @@ This package wraps https://github.com/suchipi/webview so it can be distributed o
 As a global CLI application:
 
 ```
-npm i -g @suchipi/webview
+npm i -g webview
 ```
 
 As a node module:
 
 ```
-npm i --save @suchipi/webview
+npm i --save webview
 ```
 
 ## Usage (CLI)

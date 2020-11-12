@@ -1,6 +1,6 @@
 {
-  "name": "@suchipi/webview",
-  "version": "0.2.1",
+  "name": "webview",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
