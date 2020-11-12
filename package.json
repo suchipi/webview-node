@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "repository": "suchipi/webview-node",
   "dependencies": {
     "yargs-parser": "^20.2.0"
   },
